@@ -1,0 +1,12 @@
+1;tim@eu.com;passw;false
+2;mike@eu.com;pass;false
+3;jane@eu.com;1234;false
+4;john@eu.com;1234;false
+5;cristina@eu.com;criss;false
+6;flavy@eu.com;flavy;false
+7;simi@ya.com;parola;false
+8;florin@eu.com;florin;false
+9;joseph@eu.com;joseph;false
+10;iov@eu.com;iovb;false
+11;david@eu.com;passw;false
+12;itea@eu.com;itea;true

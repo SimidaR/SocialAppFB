@@ -1,0 +1,5 @@
+1;Timotei;tim@eu.com;33;Cluj-Napoca
+5;Cristina;criss@eu.com;33;Cluj
+6;Flavy;flavi@eu.com;23;Cluj
+7;Rodila;simi@ya.com;33;NgOas
+8;Simida;sim@id.a;20;Cluj

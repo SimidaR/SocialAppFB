@@ -1,0 +1,12 @@
+1;07/01/2024 16:16;first try to see if works
+6;07/01/2024 16:27;after few more try
+2;07/01/2024 16:28;once again testing...
+4;07/01/2024 16:28;lets see if works this time!
+6;13/01/2024 06:41;parca e mult mai bine, nu?
+2;10/01/2024 19:10;Hey, did u make it work yet?
+1;16/01/2024 05:47;sup? how are you, my friend?
+11;17/01/2024 00:41;Test posts module with new user created.
+11;17/01/2024 00:42;Seems to work just fine.
+11;17/01/2024 00:42;Lets create some more to test all other functionalities as well.
+1;18/01/2024 23:03;refactor on UI after Andrei's code review
+12;18/01/2024 23:32;Test Posts module with new user created after refactoring.
